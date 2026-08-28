@@ -1,0 +1,153 @@
+{
+  "slug": "brigade-avalon",
+  "name": "Brigade Avalon",
+  "codename": "Remarkable",
+  "developer": "Brigade Group",
+  "location": "Sy.No 23/1A, Whitefield Village, K.R. Pura Hobli, Bengaluru East",
+  "tagline": "Expect excellence.",
+  "heroImage": "images/hero.webp",
+  "coverImage": "images/hero.webp",
+  "configurations": [
+    "3 BHK + Study",
+    "4 BHK + Maid's"
+  ],
+  "unitSizeRange": "2,765 \u2013 3,862 sq.ft (super built-up area)",
+  "price": "",
+  "possession": "",
+  "overview": "Brigade Avalon is a boutique development of 206 homes across 3 towers (2 Basement + Ground + 15 floors) on 4 acres 14 guntas in Whitefield. Homes are offered in 3.5 and 4 BHK layouts, backed by a full-scale clubhouse with a temperature-controlled swimming pool, golf simulator and business centre.",
+  "highlights": [
+    "206 exclusive homes across 3 towers on 4 acres 14 guntas",
+    "3.5 and 4 BHK layouts with study, powder room and maid's room options",
+    "3-tiered, lobbied grand entrance experience",
+    "Clubhouse with golf simulator, squash court, mini theatre and business centre",
+    "Temperature-controlled swimming pool and party terrace",
+    "EV-enabled parking with every home",
+    "Interconnected lobby design for a cohesive community"
+  ],
+  "floorPlans": [
+    {
+      "tower": "Tower B (Type-04)",
+      "configuration": "3 BHK + 3 Toilet + Study + Powder Room",
+      "sbua": "2,933 sq.ft SBUA / 1,612 sq.ft carpet",
+      "image": "images/fp_3bhk_typeb.webp"
+    },
+    {
+      "tower": "Tower B (Type-02)",
+      "configuration": "3 BHK + 3 Toilet + Study + Powder Room",
+      "sbua": "2,765 sq.ft SBUA / 1,550.2 sq.ft carpet",
+      "image": "images/fp_3bhk_typea.webp"
+    },
+    {
+      "tower": "Tower C (Type-01)",
+      "configuration": "4 BHK + 4 Toilet + Powder + Maid's Room",
+      "sbua": "3,862 sq.ft SBUA / 2,187 sq.ft carpet",
+      "image": "images/fp_4bhk.webp"
+    }
+  ],
+  "masterPlan": "images/masterplan.webp",
+  "images": [
+    "images/hero.webp",
+    "images/gallery1.webp",
+    "images/gallery2.webp",
+    "images/masterplan.webp"
+  ],
+  "amenities": [
+    "Reception & lounge",
+    "Golf simulator",
+    "Space for spa",
+    "Table tennis room",
+    "Indoor sports",
+    "Banquet hall with pre-function lobby",
+    "Space for open caf\u00e9",
+    "Temperature-controlled swimming pool",
+    "Badminton court",
+    "Party terrace",
+    "Squash court",
+    "Space for business centre",
+    "Gym with aerobics",
+    "Mini theatre"
+  ],
+  "specifications": [
+    {
+      "category": "Flooring",
+      "items": [
+        "Engineered marble in living/dining/family/foyer and other bedrooms",
+        "Engineered wood in master bedroom",
+        "Engineered marble in kitchen",
+        "Wood-finish outdoor flooring on balcony deck",
+        "Matt-finish vitrified tiles in powder room, washrooms, maid's room and utility"
+      ]
+    },
+    {
+      "category": "Kitchen",
+      "items": [
+        "Provision for modular kitchen (no counter or sink provided)",
+        "Plumbing/electrical provision for water purifier, refrigerator, microwave, washing machine and dishwasher",
+        "Hot & cold mixer with long body bib cock; sink provision in kitchen and utility"
+      ]
+    },
+    {
+      "category": "Washrooms",
+      "items": [
+        "CP fittings: Grohe/Hansgrohe or equivalent",
+        "Sanitary fixtures: Grohe/Hansgrohe/Duravit or equivalent",
+        "Master washroom: imported marble/granite counter with wash basin, glass partition shower with rain shower",
+        "Maid's washroom: Jaquar or equivalent pedestal wash basin"
+      ]
+    },
+    {
+      "category": "Doors & Windows",
+      "items": [
+        "Main entry: teak wood frame with designer shutter, veneer with PU/melamine polish and digital lock",
+        "Bedroom doors: pre-engineered frames, veneer finished in melamine polish",
+        "Balcony door: 3-track aluminium powder-coated full-height sliding door with bug screen",
+        "Aluminium/UPVC windows with SGU and bug screen"
+      ]
+    },
+    {
+      "category": "Air Conditioning & Heating",
+      "items": [
+        "VRV system \u2014 Daikin/Samsung/Mitsubishi or equivalent",
+        "Heat pump for hot water \u2014 AO Smith/V-Guard/Jaquar/Racold or equivalent"
+      ]
+    },
+    {
+      "category": "Electrical & Automation",
+      "items": [
+        "Power supply: 9 kW for 3 BHK+Study, 12 kW for 4 BHK+Maid",
+        "Modular switches: Legrand/Schneider or equivalent",
+        "IoT-based smart switches and smart door lock",
+        "100% DG backup for apartments (chargeable); 100% DG backup for common lifts, pumps & lighting"
+      ]
+    },
+    {
+      "category": "Security",
+      "items": [
+        "CCTV coverage for common areas at entry/exit points"
+      ]
+    }
+  ],
+  "locationInfo": {
+    "summary": "Located in Whitefield off Borewell Road, close to Whitefield Main Road, with easy access to Nexus Whitefield, Brigade Cosmopolis and Manipal Hospital.",
+    "nearby": [
+      {
+        "category": "Retail & Healthcare",
+        "places": [
+          "Nexus Whitefield",
+          "Manipal Hospital",
+          "Svastha Hospital",
+          "Brigade Cosmopolis"
+        ]
+      },
+      {
+        "category": "Landmarks",
+        "places": [
+          "Sheelavanthakere Lake",
+          "Hagadur Main Road",
+          "Whitefield Main Road"
+        ]
+      }
+    ]
+  },
+  "rera": ""
+}

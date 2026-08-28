@@ -1,0 +1,127 @@
+{
+  "slug": "mahindra-blossom",
+  "name": "Mahindra Blossom",
+  "codename": "Home of Positive Energy",
+  "developer": "Mahindra Lifespaces",
+  "location": "HopeFarm Junction, Whitefield, Bengaluru",
+  "tagline": "Launching 2, 3 & 4 BHK homes in HopeFarm Jn, Whitefield",
+  "heroImage": "images/gallery1.webp",
+  "coverImage": "images/cover.webp",
+  "configurations": [
+    "1 BHK",
+    "2 BHK",
+    "3 BHK",
+    "3 BHK + S",
+    "4 BHK"
+  ],
+  "unitSizeRange": "436 \u2013 1,689 sq.ft (RERA net area)",
+  "price": "",
+  "possession": "",
+  "overview": "A 7.8-acre development abutting Hopefarm Channasandra Metro Station in Whitefield, with 4 acres of expansive greens and 97,000 sq.ft. of amenities and clubhouse spaces. Homes are east-west facing across six wings (A\u2013F) with 2, 3 and 4 BHK layouts, pre-certified IGBC Green Homes Gold Rating.",
+  "highlights": [
+    "Abutting Hopefarm Channasandra Metro Station",
+    "Key terminals within 1.3 km: Whitefield Railway Station, Hopefarm bus stop",
+    "Major IT parks within 2.5 km: ITPL, new Google office",
+    "7.8* acres of development with 4 acres of expansive greens",
+    "97,000 sq.ft. of amenities and clubhouse spaces",
+    "Half-Olympic size swimming pool, business centre, 2 badminton courts",
+    "High street retail within the development",
+    "East-west facing homes with large 90 sq.ft. balconies in 3, 3.5 and 4 BHK",
+    "Walk-in wardrobe in larger typologies, Vaastu compliant homes",
+    "Pre-certified IGBC Green Homes Gold Rating, Net Zero Waste",
+    "Over 80 years of Mahindra's heritage; Golden Peacock Award for Corporate Governance"
+  ],
+  "floorPlans": [
+    {
+      "tower": "Wing B",
+      "configuration": "1 BHK",
+      "sbua": "436 sq.ft RERA net area",
+      "image": "images/fp_1bhk.webp"
+    },
+    {
+      "tower": "Wing B / E",
+      "configuration": "2 BHK",
+      "sbua": "865 \u2013 931 sq.ft RERA net area",
+      "image": "images/fp_2bhk.webp"
+    },
+    {
+      "tower": "Wing B / C / D / E",
+      "configuration": "3 BHK",
+      "sbua": "1,231 \u2013 1,313 sq.ft RERA net area",
+      "image": "images/fp_3bhk.webp"
+    },
+    {
+      "tower": "Wing A / C / D / F",
+      "configuration": "3 BHK + S",
+      "sbua": "1,500 \u2013 1,515 sq.ft RERA net area",
+      "image": "images/fp_3bhks.webp"
+    },
+    {
+      "tower": "Wing A / F",
+      "configuration": "4 BHK",
+      "sbua": "1,689 sq.ft RERA net area",
+      "image": "images/fp_4bhk.webp"
+    }
+  ],
+  "masterPlan": "images/masterplan.webp",
+  "images": [
+    "images/gallery1.webp",
+    "images/gallery2.webp",
+    "images/gallery3.webp",
+    "images/masterplan.webp"
+  ],
+  "amenities": [
+    "Half-Olympic size swimming pool",
+    "Bougainvillea canopies",
+    "Business center",
+    "2 badminton courts",
+    "High street retail within the development",
+    "Landscaped greens across 4 acres",
+    "Clubhouse spaces (97,000 sq.ft. total with amenities)"
+  ],
+  "specifications": [],
+  "locationInfo": {
+    "summary": "7.8* acres just steps from Hopefarm Channasandra metro and minutes from Bengaluru's IT corridor \u2014 ITPB, Whitefield Station and the Outer Ring Road are all within reach, with the upcoming Blue and Pink metro lines improving connectivity further.",
+    "nearby": [
+      {
+        "category": "IT Parks",
+        "places": [
+          "H M Tech Park \u2013 1.7 km",
+          "G R Tech Park \u2013 1.4 km",
+          "International Tech Park Bengaluru (ITPB) \u2013 2.2 km",
+          "Sumadhura Capitol Towers \u2013 800 m",
+          "Google Office \u2013 800 m"
+        ]
+      },
+      {
+        "category": "Metro & Transit",
+        "places": [
+          "Hopefarm Channasandra Metro \u2013 0.0 km",
+          "Whitefield (Kadugodi) Metro \u2013 1.2 km",
+          "Whitefield Railway Station \u2013 1.3 km",
+          "Kempegowda International Airport \u2013 34 km"
+        ]
+      },
+      {
+        "category": "Schools & Colleges",
+        "places": [
+          "Whitefield Global School \u2013 850 m",
+          "National Public School \u2013 3.6 km",
+          "MVJ College of Engineering \u2013 1.3 km",
+          "Jain University School of Allied Healthcare & Sciences \u2013 2.8 km"
+        ]
+      },
+      {
+        "category": "Hospitals & Retail",
+        "places": [
+          "Sri Sathya Sai Super Speciality Hospital \u2013 3.7 km",
+          "Manipal Hospital \u2013 4.1 km",
+          "Park Square Mall \u2013 2.1 km",
+          "Nexus Whitefield \u2013 3 km",
+          "Nexus Shantiniketan \u2013 4.3 km"
+        ]
+      }
+    ]
+  },
+  "rera": "PRM/KA/RERA/1251/446/PR/171225/008348, valid up to 31-10-2030 (rera.karnataka.gov.in)"
+}

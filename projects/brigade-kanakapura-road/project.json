@@ -1,0 +1,73 @@
+{
+  "slug": "brigade-kanakapura-road",
+  "name": "Brigade Kanakapura Road",
+  "codename": "Coming Soon",
+  "developer": "Brigade Group",
+  "location": "Kanakapura Road, South Bengaluru",
+  "tagline": "Expansive 3 and 4 bed homes on Kanakapura Road",
+  "heroImage": "images/hero.webp",
+  "coverImage": "images/cover.webp",
+  "configurations": [
+    "3 BHK",
+    "4 BHK"
+  ],
+  "unitSizeRange": "",
+  "price": "",
+  "possession": "",
+  "overview": "An upcoming Brigade Group development on Kanakapura Road, one of South Bengaluru's most liveable residential corridors \u2014 known for greener surroundings, improving infrastructure and a calmer environment compared to denser parts of the city. The project is planned around expansive, low-density 3 and 4 bed homes designed for long-term liveability across life stages.",
+  "highlights": [
+    "Low-density living with expansive 3 and 4 bed homes",
+    "Kanakapura Road corridor \u2014 greener surroundings, improving infrastructure",
+    "Direct Namma Metro Green Line connectivity to Majestic, Yeshwanthpur and central Bengaluru",
+    "NICE Road access to Electronic City, Mysore Road and Bannerghatta Road",
+    "Close to Art of Living International Center and Pyramid Valley wellness destinations",
+    "Easy access to JP Nagar & Jayanagar's social infrastructure and retail",
+    "By Brigade Group \u2014 nearly four decades of development experience, 100+ million sq.ft delivered"
+  ],
+  "floorPlans": [],
+  "masterPlan": "",
+  "images": [
+    "images/hero.webp",
+    "images/locationmap.webp"
+  ],
+  "amenities": [],
+  "specifications": [],
+  "locationInfo": {
+    "summary": "Located on Kanakapura Road in South Bengaluru, with direct Namma Metro Green Line access, NICE Road connectivity, and proximity to JP Nagar, Jayanagar and the Electronic City IT corridor.",
+    "nearby": [
+      {
+        "category": "Connectivity",
+        "places": [
+          "Doddakallasandra Metro Station \u2013 600 m",
+          "Raghuvanahalli Bus Stop \u2013 800 m",
+          "NICE Ring Road access",
+          "Namma Metro Green Line to Majestic & Yeshwanthpur"
+        ]
+      },
+      {
+        "category": "Healthcare",
+        "places": [
+          "Cura Multispeciality Hospital \u2013 1.7 km",
+          "Astra Super Speciality Hospital \u2013 2.2 km",
+          "Manipal Hospital \u2013 2.9 km"
+        ]
+      },
+      {
+        "category": "Retail & Leisure",
+        "places": [
+          "Forum Falcon City Mall \u2013 2 km",
+          "Indian Music Experience Museum \u2013 5.5 km"
+        ]
+      },
+      {
+        "category": "Education",
+        "places": [
+          "Silicon City Pre-University College \u2013 3.3 km",
+          "Dayananda Sagar College of Engineering \u2013 4.5 km",
+          "IIM Bangalore \u2013 7.9 km"
+        ]
+      }
+    ]
+  },
+  "rera": ""
+}

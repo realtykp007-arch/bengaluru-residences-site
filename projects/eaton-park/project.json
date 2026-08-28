@@ -1,0 +1,139 @@
+{
+  "slug": "eaton-park",
+  "name": "Eaton Park",
+  "codename": "The Prestige City, Sarjapur",
+  "developer": "Prestige Estates Projects Limited",
+  "location": "Sarjapur - Marathahalli Rd, Yamare Village, Bengaluru 562125",
+  "tagline": "Elevated Lifestyle Awaits",
+  "heroImage": "images/hero.webp",
+  "coverImage": "images/hero.webp",
+  "configurations": [
+    "3 Bed Premia (3 BHK + 3 Toilet)",
+    "4 Bed Supreme (4 BHK + 4 Toilet + Home Office)"
+  ],
+  "unitSizeRange": "1,903 \u2013 2,786 sq.ft (saleable area)",
+  "price": "3 Bed Premia from \u20b9228 Lakhs; 4 Bed Supreme from \u20b9305 Lakhs (incl. carpark, price w.e.f 15 June 2026)",
+  "possession": "",
+  "overview": "Eaton Park is part of The Prestige City, Sarjapur \u2014 a 200+ acre self-contained community of high-rise towers, plots and villas that includes multiple clubhouses and a Forum Mall. Spanning over 7 acres with 90% open space, Eaton Park offers 3 Bed Premia and 4 Bed Supreme residences designed for natural light, cross ventilation and spatial fluidity.",
+  "highlights": [
+    "Part of The Prestige City, Sarjapur \u2014 a 200+ acre self-contained township",
+    "7 acres with 90% open space within the Eaton Park cluster",
+    "Double-height entrance lobby, sensory garden and luxury spa & salon",
+    "Elevated boardwalk, nature walk and amphitheatre",
+    "Outdoor swimming pool, social plaza and herb garden",
+    "Kids play area with elevated boardwalk view",
+    "'The Two-Good Plan' payment scheme \u2014 book now, pay after two years",
+    "By Prestige Estates Projects Limited \u2014 developer of homes, offices, malls, hotels and warehousing"
+  ],
+  "floorPlans": [
+    {
+      "tower": "Tower 3 (Type A1b)",
+      "configuration": "3 Bed Premia (3B+3T)",
+      "sbua": "1,840 sq.ft saleable / 1,102 sq.ft carpet",
+      "image": "images/fp_3bhk_a1b.webp"
+    },
+    {
+      "tower": "Tower 1 (Type A2a)",
+      "configuration": "3 Bed Premia (3B+3T)",
+      "sbua": "1,964 sq.ft saleable / 1,180 sq.ft carpet",
+      "image": "images/fp_3bhk_a2a.webp"
+    },
+    {
+      "tower": "Tower 2 (Type B2)",
+      "configuration": "4 Bed Supreme (4B+4T+Home Office)",
+      "sbua": "2,539 sq.ft saleable / 1,604 sq.ft carpet",
+      "image": "images/fp_4bhk_b2.webp"
+    }
+  ],
+  "masterPlan": "images/citymasterplan.webp",
+  "images": [
+    "images/hero.webp",
+    "images/gallery1.webp",
+    "images/gallery2.webp",
+    "images/citymasterplan.webp"
+  ],
+  "amenities": [
+    "Double height entrance lobby",
+    "Sensory garden",
+    "Luxury spa & salon",
+    "Nature walk",
+    "Amphitheatre",
+    "Social plaza",
+    "Outdoor swimming pool",
+    "Elevated boardwalk",
+    "Herb garden",
+    "Kids play area with elevated boardwalk view"
+  ],
+  "specifications": [
+    {
+      "category": "Structure & Lobby",
+      "items": [
+        "RCC structure",
+        "Elegant lobby flooring on ground floor; vitrified tiles in basement and upper floor lobbies",
+        "Lift cladding in marble/granite as per architect's design",
+        "Service staircase and lobby in Kota stone/cement tiles"
+      ]
+    },
+    {
+      "category": "Apartment Flooring",
+      "items": [
+        "Vitrified tiles in foyer, living, dining, corridors, all bedrooms, kitchen & utility",
+        "Ceramic tiles in the balcony"
+      ]
+    },
+    {
+      "category": "Kitchen",
+      "items": [
+        "Ceramic tile dado along designated counter length up to 1.5m height",
+        "Provision for exhaust fan"
+      ]
+    },
+    {
+      "category": "Toilets",
+      "items": [
+        "Vitrified tile flooring and walls up to false ceiling",
+        "Counter-top wash basins, EWCs and chrome-plated fittings",
+        "Chrome-plated tap with shower mixer",
+        "Geysers in all toilets; solar-powered water with geyser provision on top two floors",
+        "Suspended concealed pipeline within false ceiling"
+      ]
+    },
+    {
+      "category": "Doors & Windows",
+      "items": [
+        "Main door: timber frame with laminated flush shutter",
+        "Internal doors: wooden frame and laminated flush shutters",
+        "External doors/windows: UPVC/Aluminium frames with clear glass; all balcony railings in glass"
+      ]
+    },
+    {
+      "category": "Painting",
+      "items": [
+        "Premium external emulsion on exterior walls",
+        "OBD on all internal walls and ceilings",
+        "Enamel paint on railings"
+      ]
+    },
+    {
+      "category": "Electrical",
+      "items": [
+        "Concealed PVC-insulated copper wiring with modular switches",
+        "TV points in living area and all bedrooms; telephone points in living and kitchen only",
+        "ELCB and individual meters for all apartments",
+        "Data points in living and study/master bedroom"
+      ]
+    },
+    {
+      "category": "Power & Security",
+      "items": [
+        "DG power backup for all common areas; 100% apartment backup at additional cost",
+        "Security cabins at all entrances/exits with CCTV coverage"
+      ]
+    }
+  ],
+  "locationInfo": {
+    "summary": "Located within The Prestige City on Sarjapur - Marathahalli Road, Yamare Village, Bengaluru \u2014 a master-planned township that also includes Aspen Greens, Aston Park, Avalon Park, Eden Park, Fernvale and a Forum Mall.",
+    "nearby": []
+  },
+  "rera": "PRM/KA/RERA/1251/308/PR/180326/008537"
+}

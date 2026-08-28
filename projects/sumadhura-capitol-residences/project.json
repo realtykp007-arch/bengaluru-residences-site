@@ -1,0 +1,58 @@
+{
+  "slug": "sumadhura-capitol-residences",
+  "name": "Sumadhura Capitol Residences",
+  "codename": "",
+  "developer": "Sumadhura Group",
+  "location": "Whitefield, near ITPL, Bengaluru",
+  "tagline": "Space designed for thought and growth",
+  "heroImage": "images/hero.webp",
+  "coverImage": "images/hero.webp",
+  "configurations": [
+    "1 BHK",
+    "2 BHK",
+    "3 BHK",
+    "4 BHK"
+  ],
+  "unitSizeRange": "300 \u2013 2,115 sq.ft (SBUA)",
+  "price": "Luxury 3 BHK from \u20b92.7 Cr* onwards",
+  "possession": "",
+  "overview": "Sumadhura Capitol Residences offers spacious 1, 2, 3 and 4 BHK homes across four towers \u2014 Beacon, Pinnacle, Summit and Triumph \u2014 in Whitefield, near ITPL. Apartments feature 22 ft. patio-size balconies and layouts from 1,635 to 1,655 sq.ft for the 3 BHK range, along with an on-site gaming zone with bowling alley.",
+  "highlights": [
+    "Four towers: Beacon, Pinnacle, Summit and Triumph",
+    "22 ft. patio-size balcony in select layouts",
+    "Spacious 3 BHK layouts of 1,635 \u2013 1,655 sq.ft",
+    "Gaming zone with bowling alley",
+    "Located in Whitefield, near ITPL",
+    "1, 2, 3 and 4 BHK homes across East and North-facing layouts"
+  ],
+  "floorPlans": [
+    {
+      "tower": "Tower A - Beacon, Ground Floor",
+      "configuration": "Various \u2014 1/2/3/4 BHK",
+      "sbua": "See unit table on floor plan",
+      "image": "images/fp_towerA_ground.webp"
+    },
+    {
+      "tower": "Tower A - Beacon, First Floor",
+      "configuration": "1 BHK \u2013 4 BHK (Units A-101 to A-106A)",
+      "sbua": "300 \u2013 2,115 sq.ft SBUA",
+      "image": "images/fp_towerA_first.webp"
+    }
+  ],
+  "masterPlan": "images/masterplan.webp",
+  "images": [
+    "images/hero.webp",
+    "images/masterplan.webp"
+  ],
+  "amenities": [
+    "Gaming zone with bowling alley",
+    "22 ft. patio-size balconies",
+    "Landscaped master plan grounds"
+  ],
+  "specifications": [],
+  "locationInfo": {
+    "summary": "Located in Whitefield near ITPL, one of Bengaluru's most established IT and residential corridors.",
+    "nearby": []
+  },
+  "rera": "PRM/KA/RERA/1251/446/PR/051024/007125"
+}

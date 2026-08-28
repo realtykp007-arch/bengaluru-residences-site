@@ -1,0 +1,157 @@
+{
+  "slug": "prestige-marigold-phase2",
+  "name": "Prestige Marigold Phase 2",
+  "codename": "",
+  "developer": "Prestige Estates Projects Limited",
+  "location": "North Bengaluru, off Bellary Road, near Doddaballapur",
+  "tagline": "Many moments. One place. Life, in full bloom.",
+  "heroImage": "images/hero.webp",
+  "coverImage": "images/hero.webp",
+  "configurations": [
+    "1,200 sq.ft plot",
+    "1,500 sq.ft plot",
+    "2,400 sq.ft plot",
+    "4,000 sq.ft plot",
+    "Custom sizes"
+  ],
+  "unitSizeRange": "1,200 \u2013 4,000 sq.ft plots (custom sizes also available)",
+  "price": "",
+  "possession": "",
+  "overview": "Prestige Marigold Phase 2 is a plotted residential community in North Bengaluru's fast-growing corridor off Bellary Road, 15 minutes from Kempegowda International Airport. Buyers acquire a serviced plot and build their own villa on their own timeline, within an established Prestige township that also includes Prestige Marigold Phase 1 and the neighbouring Inventure Academy.",
+  "highlights": [
+    "Plotted development \u2014 own the land and build your dream home your way",
+    "Plots from 1,200 sq.ft to 4,000 sq.ft, with custom sizes available",
+    "Just off Bellary Road, 15 minutes from Kempegowda International Airport",
+    "Set within the established Prestige Marigold Phase 1 ecosystem",
+    "Inventure Academy (North) located right next door",
+    "Imposing entrance with 15m wide entrance road; internal roads 9-15m wide",
+    "Clubhouse with pool, lap pool, kids pool and 90,000+ sq.ft of landscaped amenities",
+    "Plug-and-play plotted offering \u2014 Prestige handles approvals, setback norms, water and sanitation infrastructure"
+  ],
+  "masterPlan": "images/masterplan.webp",
+  "images": [
+    "images/hero.webp",
+    "images/gallery1.webp",
+    "images/gallery2.webp",
+    "images/clubhouse.webp",
+    "images/masterplan.webp"
+  ],
+  "amenities": [
+    "Clubhouse with swimming pool",
+    "Lap pool & kids pool",
+    "Pool deck",
+    "Trampoline park",
+    "Climbing wall & sand pit",
+    "Kids play area",
+    "Outdoor gym",
+    "Barbeque area",
+    "Amphi seating area",
+    "Putting green & formal garden",
+    "Japanese garden",
+    "Miyawaki forest & orchard",
+    "Organic farming plot",
+    "Pickleball, padel ball & volleyball courts",
+    "Basketball half court",
+    "Multipurpose court",
+    "Viewing gallery",
+    "Pet park",
+    "Flower & fragrance garden",
+    "Plot for a premium educational institute within the township"
+  ],
+  "specifications": [
+    {
+      "category": "Infrastructure",
+      "items": [
+        "15m wide imposing entrance road, classical-style architecture",
+        "Internal roads 9, 12 & 15m wide with asphalted driveways",
+        "Landscaped avenue on either side of the road",
+        "Defined concrete access from approach road to each plot"
+      ]
+    },
+    {
+      "category": "Electrical",
+      "items": [
+        "LED streetlights partially solar powered",
+        "Underground conduits for fiber optic data/voice provision",
+        "Underground power lines from transformer yards to individual feeder pillars"
+      ]
+    },
+    {
+      "category": "Plumbing & Water",
+      "items": [
+        "Underground dual water supply via UPVC pipes for domestic and treated use",
+        "Plumbing lines terminated within plots for water supply & sewage",
+        "Underground sanitary lines connected to central STP",
+        "Centralized OHT & underground sump"
+      ]
+    },
+    {
+      "category": "Services",
+      "items": [
+        "Sewage treatment plant",
+        "Water treatment plant with underground sump tank",
+        "Organic waste convertor",
+        "DG power for common services"
+      ]
+    },
+    {
+      "category": "Safety & Security",
+      "items": [
+        "Security cabin at main entrance",
+        "24/7 security with RFID boom barriers at main gate",
+        "CCTV at main entrance/exit, service yards and children's play area"
+      ]
+    },
+    {
+      "category": "Water Conservation",
+      "items": [
+        "STP treated water used for common landscape irrigation and flushing",
+        "Recharge pits for rainwater harvesting"
+      ]
+    },
+    {
+      "category": "Landscape",
+      "items": [
+        "Urban garden areas",
+        "Avenue plantation with low-maintenance plants",
+        "Landscape lighting for hardscape and softscape"
+      ]
+    }
+  ],
+  "locationInfo": {
+    "summary": "Strategically located in North Bengaluru's fastest-growing corridor just off Bellary Road, 15 minutes from Kempegowda International Airport, and set within the established Prestige Marigold ecosystem alongside the upcoming Inventure Academy (North).",
+    "nearby": [
+      {
+        "category": "Education",
+        "places": [
+          "Inventure Academy (North) \u2014 right next door",
+          "GITAM University",
+          "Amity University",
+          "CMR University",
+          "Reva University",
+          "Presidency University"
+        ]
+      },
+      {
+        "category": "Transit",
+        "places": [
+          "15 minutes from Kempegowda International Airport (KIAL)",
+          "Upcoming metro line nearby",
+          "NH 44 / Bellary Road access"
+        ]
+      },
+      {
+        "category": "Healthcare & Retail",
+        "places": [
+          "Manipal Hospital",
+          "Aster CMI Hospital",
+          "Sparsh Hospital",
+          "Esteem Mall",
+          "Phoenix Mall of Asia",
+          "Bhartiya Mall of Bengaluru"
+        ]
+      }
+    ]
+  },
+  "rera": "PRM/KA/RERA/1250/303/PR/171225/008346"
+}

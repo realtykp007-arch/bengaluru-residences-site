@@ -1,0 +1,175 @@
+{
+  "slug": "prestige-elm-park",
+  "name": "Prestige Elm Park",
+  "codename": "",
+  "developer": "Prestige Estates Projects Limited",
+  "location": "Whitefield, Bengaluru",
+  "tagline": "",
+  "heroImage": "images/hero.webp",
+  "coverImage": "images/hero.webp",
+  "configurations": [
+    "3 BHK",
+    "3 BHK + Maid's",
+    "4 BHK + Maid's"
+  ],
+  "unitSizeRange": "1,790 \u2013 2,575 sq.ft (saleable area)",
+  "price": "",
+  "possession": "",
+  "overview": "Prestige Elm Park is a residential development in Whitefield offering 3 and 4 bedroom homes across multiple towers, close to major IT parks, malls, hospitals and schools, with proximity to the Kadugodi, Whitefield and ITPL metro stations on the Purple Line extension.",
+  "highlights": [
+    "Located in Whitefield with direct access to ITPL and the metro Purple Line extension",
+    "Multiple towers with 3 Bed, 3 Bed + Maid's and 4 Bed + Maid's layouts",
+    "Clubhouse with swimming pool and kids pool",
+    "Multipurpose 5-a-side football, tennis and half basketball court",
+    "Japanese contemplative garden and amphitheatre with stage",
+    "Skating rink, senior citizen corner and outdoor gymnasium",
+    "Part of Prestige's established Whitefield portfolio alongside Lakeside Habitat, Shantiniketan and White Meadows"
+  ],
+  "floorPlans": [
+    {
+      "tower": "Tower 01",
+      "configuration": "3 BHK (Type A / B)",
+      "sbua": "1,790 \u2013 1,829 sq.ft saleable",
+      "image": "images/fp_3bed.webp"
+    },
+    {
+      "tower": "Tower 01 & 02",
+      "configuration": "3 BHK + Maid's (Type C)",
+      "sbua": "2,004 sq.ft saleable",
+      "image": "images/fp_3bedmaid.webp"
+    },
+    {
+      "tower": "Tower 01 & 02",
+      "configuration": "4 BHK + Maid's (Type E)",
+      "sbua": "2,488 sq.ft saleable",
+      "image": "images/fp_4bed.webp"
+    }
+  ],
+  "masterPlan": "images/masterplan.webp",
+  "images": [
+    "images/hero.webp",
+    "images/gallery1.webp",
+    "images/gallery2.webp",
+    "images/masterplan.webp"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming pool & kids pool",
+    "Multipurpose 5-a-side football, tennis & half basketball court",
+    "Skating rink",
+    "Senior citizen corner / outdoor gymnasium",
+    "Japanese contemplative garden",
+    "Amphitheatre with stage",
+    "Kids play area",
+    "Party lawn / spillout area",
+    "Water cascade",
+    "Landscaped grounds"
+  ],
+  "specifications": [
+    {
+      "category": "Structure & Lobby",
+      "items": [
+        "RCC structure, cement blocks for walls",
+        "Elegant lobby flooring on ground floor; vitrified tiles in basement and upper floor lobbies",
+        "Lift cladding in marble/granite as per architect's design"
+      ]
+    },
+    {
+      "category": "Apartment Flooring",
+      "items": [
+        "Vitrified tiles in foyer, living, dining, corridors and all bedrooms",
+        "Ceramic tiles in balcony"
+      ]
+    },
+    {
+      "category": "Kitchen",
+      "items": [
+        "Ceramic tiles in kitchen, utility, maid's room and maid's toilet",
+        "Tile dado 600mm above counter height along designated counter length",
+        "Provision for exhaust fan"
+      ]
+    },
+    {
+      "category": "Toilets",
+      "items": [
+        "Vitrified tiles for flooring and walls up to false ceiling",
+        "Counter-top wash basins; wall-hung EWCs",
+        "Master toilet with shower partition and glass door",
+        "Geysers in all toilets except the last two floors (solar water on last two floors)"
+      ]
+    },
+    {
+      "category": "Doors & Windows",
+      "items": [
+        "Main door: timber frame and flush shutters",
+        "Internal doors: timber frame, laminated flush shutters",
+        "External doors/windows: UPVC/aluminium frames with clear glass"
+      ]
+    },
+    {
+      "category": "Electrical",
+      "items": [
+        "Concealed PVC-insulated copper wiring with modular switches",
+        "TV points in living and all bedrooms",
+        "ELCB and individual meters for all apartments"
+      ]
+    },
+    {
+      "category": "Security & Power",
+      "items": [
+        "Security cabins at all entrances/exits with CCTV coverage",
+        "Generator for common areas; 100% apartment backup at additional cost"
+      ]
+    }
+  ],
+  "locationInfo": {
+    "summary": "Located in Whitefield with access to Kadugodi, Whitefield and ITPL metro stations, close to major IT parks, malls, hospitals and schools.",
+    "nearby": [
+      {
+        "category": "Business & Workplaces",
+        "places": [
+          "Upcoming Prestige Tech Park",
+          "Sigma Tech Park",
+          "Prestige Technostar",
+          "ITPL",
+          "GR Tech Park",
+          "SCB Brigade Tech Park"
+        ]
+      },
+      {
+        "category": "Metro & Transit",
+        "places": [
+          "Kadugodi Metro",
+          "Whitefield Metro",
+          "ITPL Metro",
+          "Metro Purple Line (Mysore Road \u2013 Baiyappanahalli, extension to Whitefield)"
+        ]
+      },
+      {
+        "category": "Shopping & Retail",
+        "places": [
+          "DMart",
+          "Forum Neighbourhood Mall",
+          "Virginia Mall",
+          "Brookfield Mall",
+          "Park Square Mall",
+          "Phoenix Marketcity",
+          "Nexus Shantiniketan Mall"
+        ]
+      },
+      {
+        "category": "Education & Healthcare",
+        "places": [
+          "Oakridge School",
+          "The International School Bangalore",
+          "Greenwood High School",
+          "Deens Academy",
+          "DPS Whitefield",
+          "Manipal Hospital Whitefield & Varthur",
+          "Motherhood Hospital"
+        ]
+      }
+    ]
+  },
+  "rera": "PRM/KA/RERA/1251/446/PR/250123/005667"
+}

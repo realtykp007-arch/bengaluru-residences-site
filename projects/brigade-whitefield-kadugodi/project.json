@@ -1,0 +1,80 @@
+{
+  "slug": "brigade-whitefield-kadugodi",
+  "name": "Brigade Whitefield-Kadugodi Integrated Township",
+  "codename": "East Bengaluru's Mega Destination",
+  "developer": "Brigade Group",
+  "location": "Whitefield-Kadugodi Main Road, East Bengaluru",
+  "tagline": "East Bengaluru's mega destination is rising",
+  "heroImage": "images/hero.webp",
+  "coverImage": "images/cover.webp",
+  "configurations": [
+    "1 BHK",
+    "2 BHK",
+    "3 BHK",
+    "4 BHK"
+  ],
+  "unitSizeRange": "",
+  "price": "",
+  "possession": "",
+  "overview": "Brigade's grandest integrated township \u2014 a 40-acre destination on Whitefield-Kadugodi Main Road inspired by Renaissance design, bringing together homes, retail, hospitality, workplaces and leisure in one planned ecosystem. Premium 1, 2, 3 & 4 BHK residences are designed for complete living, backed by Brigade's four-decade legacy as masters of integrated townships.",
+  "highlights": [
+    "40-acre integrated township on Whitefield-Kadugodi Main Road",
+    "Homes, retail, hospitality, workplaces and leisure within one ecosystem",
+    "~2.39 lakh+ sq.ft retail built-up area, ~4.49 lakh+ sq.ft commercial built-up area, ~251 hotel keys planned",
+    "15 minutes to K R Puram, 30 minutes to ITPL and ORR, 35 minutes to Kempegowda International Airport",
+    "Positioned amid East Bengaluru's Technology Corridor: ITPL, EPIP Zone, Whitefield, Mahadevapura",
+    "Multi-speciality hospital planned within the township",
+    "By Brigade Group \u2014 40 years of legacy, 300+ projects, 90 million sq.ft delivered"
+  ],
+  "floorPlans": [],
+  "masterPlan": "",
+  "images": [
+    "images/hero.webp",
+    "images/gallery1.webp",
+    "images/locationmap.webp"
+  ],
+  "amenities": [],
+  "specifications": [],
+  "locationInfo": {
+    "summary": "Positioned amid East Bengaluru's thriving employment hubs on Whitefield-Kadugodi Main Road, within the East Bengaluru Technology Corridor and North-East Innovation & Business Corridor.",
+    "nearby": [
+      {
+        "category": "Connectivity",
+        "places": [
+          "K R Puram \u2013 15 mins",
+          "ITPL \u2013 30 mins",
+          "Outer Ring Road (ORR) \u2013 30 mins",
+          "Kempegowda International Airport \u2013 35 mins"
+        ]
+      },
+      {
+        "category": "Healthcare",
+        "places": [
+          "Manipal Hospital, Whitefield",
+          "Vydehi Hospital",
+          "Sathya Sai Hospital"
+        ]
+      },
+      {
+        "category": "Education",
+        "places": [
+          "Garden City University",
+          "The Cambridge International School",
+          "Deens Academy",
+          "DPS Whitefield",
+          "Shri Ram Global School, Whitefield",
+          "Sea College of Science, Commerce and Arts"
+        ]
+      },
+      {
+        "category": "Employment Hubs",
+        "places": [
+          "ITPL & EPIP Zone (Kadugodi)",
+          "Whitefield / Mahadevapura Technology Corridor",
+          "Aerospace, logistics & commercial parks"
+        ]
+      }
+    ]
+  },
+  "rera": ""
+}

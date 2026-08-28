@@ -1,0 +1,197 @@
+{
+  "slug": "evergreen-prp",
+  "name": "Prestige Evergreen",
+  "codename": "at Prestige Raintree Park",
+  "developer": "Prestige Estates Projects Limited",
+  "location": "SH 35, Whitefield Main Road, Varthur, Bengaluru 560087",
+  "tagline": "Life, in all its beautiful ways",
+  "heroImage": "images/hero.webp",
+  "coverImage": "images/hero.webp",
+  "configurations": [
+    "2 BHK",
+    "3 BHK",
+    "3 BHK + Study",
+    "4 BHK"
+  ],
+  "unitSizeRange": "1,177 \u2013 2,513 sq.ft (saleable area)",
+  "price": "",
+  "possession": "",
+  "overview": "Prestige Evergreen sits within Prestige Raintree Park off Varthur Main Road, co-located with Prestige Tech Forest \u2014 a 2.5 Mn.sft IT tech park \u2014 in Bengaluru's new East CBD. The development spans 14 residential towers (Buildings 01\u201307) with 2, 3 and 4 BHK homes, an extensive multi-level clubhouse, and a landscaped master plan built around a central lagoon and lap pool.",
+  "highlights": [
+    "Co-located with Prestige Tech Forest, a 2.5 Mn.sft IT tech park \u2014 a commute-free lifestyle",
+    "14 residential towers organised across 7 buildings",
+    "Multi-level clubhouse with indoor family pool, squash and badminton courts, co-working space",
+    "Landscaped master plan with infinity lap pool, lagoon, water courtyard and forest pavilion",
+    "Tennis, pickleball, padel, cricket practice pitch and basketball courts on-site",
+    "Work hubs within 3 km: Sigma Tech Park, Brigade IRV Center",
+    "Schools within 3 km: Glentree Academy, Vibgyor School",
+    "Hospitals within 3 km: Manipal Hospital, Vydehi Super Speciality Hospital"
+  ],
+  "floorPlans": [
+    {
+      "tower": "Building 01/04, Towers 02/08",
+      "configuration": "2 BHK (B1)",
+      "sbua": "1,177 sq.ft saleable",
+      "image": "images/fp_2bhk.webp"
+    },
+    {
+      "tower": "Building 01/03, Towers 02/07",
+      "configuration": "3 BHK (E1)",
+      "sbua": "1,884 sq.ft saleable",
+      "image": "images/fp_3bhk.webp"
+    },
+    {
+      "tower": "Building 03, Towers 06/07",
+      "configuration": "3 BHK + Study (F2)",
+      "sbua": "2,001 sq.ft saleable",
+      "image": "images/fp_3bhkstudy.webp"
+    },
+    {
+      "tower": "Building 03, Tower 07",
+      "configuration": "4 BHK + 4 Toilet + Maid (H7)",
+      "sbua": "2,513 sq.ft saleable",
+      "image": "images/fp_4bhk.webp"
+    }
+  ],
+  "masterPlan": "images/masterplan.webp",
+  "images": [
+    "images/hero.webp",
+    "images/gallery1.webp",
+    "images/gallery2.webp",
+    "images/gallery3.webp",
+    "images/masterplan.webp"
+  ],
+  "amenities": [
+    "Infinity lap pool, lagoon & kids pool",
+    "Indoor family pool",
+    "Squash court & badminton court",
+    "Gymnasium",
+    "Tennis, pickleball & padel courts",
+    "Cricket practice pitch & basketball court",
+    "Party hall & pre-function area",
+    "Co-working space",
+    "Creche & multipurpose tuition room",
+    "Ladies' & gents' salon and spa",
+    "Table tennis, pool table & virtual cricket",
+    "Yoga & aerobics studio",
+    "Cafe, bakery & convenience store",
+    "Pet park",
+    "Rain Tree Grove trail & forest pavilion",
+    "Water courtyard, sunken deck & sculpture garden"
+  ],
+  "specifications": [
+    {
+      "category": "Structure",
+      "items": [
+        "RCC structure, cement blocks for walls wherever needed"
+      ]
+    },
+    {
+      "category": "Lobby",
+      "items": [
+        "Ground floor tower lobbies in marble",
+        "Typical lobby flooring in vitrified tiles, cladding in granite/marble",
+        "Service lobby, corridor and staircase in Kota/cement tiles"
+      ]
+    },
+    {
+      "category": "Apartment Flooring",
+      "items": [
+        "Porcelain tiles in foyer, living, dining, corridors, family room and all bedrooms",
+        "Balconies and all toilets in vitrified tiles"
+      ]
+    },
+    {
+      "category": "Kitchen",
+      "items": [
+        "Vitrified tile flooring",
+        "No counter or tile dado provided",
+        "Utility finished with vitrified tiles on floor and walls"
+      ]
+    },
+    {
+      "category": "Maid's Room & Toilet",
+      "items": [
+        "Ceramic tile flooring in maid's room, toilet and utility",
+        "Ceramic wall dado in maid's toilet and utility"
+      ]
+    },
+    {
+      "category": "Toilets & Fittings",
+      "items": [
+        "Granite/quartz counters with counter-top wash basins",
+        "Wall-mounted EWCs",
+        "High quality chrome fittings",
+        "Geysers in all toilets",
+        "Mirrors with CP accessories"
+      ]
+    },
+    {
+      "category": "Painting",
+      "items": [
+        "Cement/texture paint for external walls",
+        "Emulsion for internal walls and ceiling"
+      ]
+    },
+    {
+      "category": "Doors & Windows",
+      "items": [
+        "Unit main door: 8 ft high timber frame and shutter, polished both sides",
+        "Internal doors: 7 ft high timber frame, laminated flush shutters",
+        "External doors: aluminium frames, clear glass, mosquito mesh provision"
+      ]
+    },
+    {
+      "category": "Electrical",
+      "items": [
+        "Concealed wiring with PVC insulated copper wires and modular switches",
+        "Telephone points in living and kitchen; TV points in living and all bedrooms",
+        "Provision for split AC in living room and all bedrooms"
+      ]
+    },
+    {
+      "category": "Security & Power",
+      "items": [
+        "CCTV coverage at all entry/exit security cabins",
+        "Intercom facility for all apartments",
+        "DG power for common areas (100% apartment backup at additional cost)"
+      ]
+    }
+  ],
+  "locationInfo": {
+    "summary": "Located just off Varthur Main Road, Prestige Evergreen at Prestige Raintree Park sits alongside Prestige Tech Forest, placing residents at the confluence of work, play and life in Bengaluru's new East CBD.",
+    "nearby": [
+      {
+        "category": "Work Hubs (within 3 km)",
+        "places": [
+          "Sigma Tech Park",
+          "Brigade IRV Center"
+        ]
+      },
+      {
+        "category": "Schools & Colleges (within 3 km)",
+        "places": [
+          "Glentree Academy",
+          "Vibgyor School"
+        ]
+      },
+      {
+        "category": "Hospitals (within 3 km)",
+        "places": [
+          "Manipal Hospital",
+          "Vydehi Super Speciality Hospital"
+        ]
+      },
+      {
+        "category": "Further Afield (3\u201310 km)",
+        "places": [
+          "Brigade Tech Gardens, SAP Labs, ITPL \u2013 3-5 km",
+          "Prestige Tech Park, Bagmane Solarium \u2013 3-5 km",
+          "Cessna Business Park, Prestige Shantiniketan \u2013 5-7 km",
+          "RMZ Eco Space, Embassy Tech Village \u2013 7-10 km"
+        ]
+      }
+    ]
+  },
+  "rera": "PRM/KA/RERA/1251/446/PR/010126/008374"
+}

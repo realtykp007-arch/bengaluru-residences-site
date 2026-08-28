@@ -1,0 +1,222 @@
+{
+  "slug": "solace",
+  "name": "Sumadhura Solace",
+  "codename": "Codename E-119",
+  "developer": "Sumadhura Group",
+  "location": "Marathahalli Main Road, Thubarahalli, East Bengaluru",
+  "tagline": "The rarest element in luxury living",
+  "heroImage": "images/lifestyle1.webp",
+  "coverImage": "images/cover.webp",
+  "configurations": [
+    "1 BHK",
+    "3 BHK",
+    "4 BHK"
+  ],
+  "unitSizeRange": "373 \u2013 2,730 sq.ft (SBUA)",
+  "price": "",
+  "possession": "",
+  "overview": "An 11.66-acre development of 7 architecturally refined towers (2 basements + Ground + 18 floors) with 777 exclusive residences, set beside twin lakes on Marathahalli Main Road, Thubarahalli. 81% of the development is open space and landscaped avenues, anchored by a full-scale clubhouse and 90+ amenities.",
+  "highlights": [
+    "11.66 acres with 81% open space and landscaped avenues",
+    "7 architecturally refined towers, 2 Basement + G + 18 floors",
+    "777 exclusive residences with ample car parking",
+    "Surrounded by twin lakes for a naturally serene setting",
+    "90+ amenities across a dedicated clubhouse and landscaped zones",
+    "Smart, future-ready home automation provision",
+    "5 towers of residences: Sora, Vana, Nira, Kora, plus Luma, Mira, Olea"
+  ],
+  "floorPlans": [
+    {
+      "tower": "Sora (Tower 2)",
+      "configuration": "1 BHK Noble",
+      "sbua": "373\u2013500 sq.ft",
+      "image": "images/fp_sora.webp"
+    },
+    {
+      "tower": "Sora (Tower 2)",
+      "configuration": "3 BHK Regal",
+      "sbua": "2,220\u20132,255 sq.ft",
+      "image": "images/fp_sora.webp"
+    },
+    {
+      "tower": "Sora (Tower 2)",
+      "configuration": "4 BHK Regal",
+      "sbua": "2,720\u20132,730 sq.ft",
+      "image": "images/fp_sora.webp"
+    },
+    {
+      "tower": "Vana (Tower 3)",
+      "configuration": "1 BHK Noble",
+      "sbua": "347\u2013493 sq.ft",
+      "image": "images/fp_vana.webp"
+    },
+    {
+      "tower": "Vana (Tower 3)",
+      "configuration": "3 BHK Regal / Elite",
+      "sbua": "1,800\u20131,995 sq.ft",
+      "image": "images/fp_vana.webp"
+    },
+    {
+      "tower": "Vana (Tower 3)",
+      "configuration": "4 BHK Elite",
+      "sbua": "2,270\u20132,285 sq.ft",
+      "image": "images/fp_vana.webp"
+    },
+    {
+      "tower": "Nira (Tower 4)",
+      "configuration": "3 BHK Elite / Regal",
+      "sbua": "1,705\u20132,120 sq.ft",
+      "image": "images/fp_nira.webp"
+    },
+    {
+      "tower": "Kora (Tower 5)",
+      "configuration": "3 BHK Elite / Regal",
+      "sbua": "1,705\u20132,120 sq.ft",
+      "image": "images/fp_kora.webp"
+    }
+  ],
+  "masterPlan": "images/masterplan.webp",
+  "images": [
+    "images/lifestyle1.webp",
+    "images/lifestyle2.webp",
+    "images/lifestyle3.webp",
+    "images/lifestyle4.webp",
+    "images/masterplan.webp"
+  ],
+  "amenities": [
+    "Temperature-controlled swimming pool & kids pool",
+    "Aqua gym & aqua lounge",
+    "Outdoor Jacuzzi & wet deck",
+    "Clubhouse with co-working spaces & AV lounge",
+    "Yoga and wellness studio",
+    "Badminton courts",
+    "Half basketball court, tennis court & pickle ball court",
+    "Cricket net practice pitch",
+    "Outdoor gym & calisthenics zone on EPDM",
+    "Meditation pavilion & yoga deck",
+    "Jogging & cycling track",
+    "Multi-use kids play areas (2-8 yrs & 8+ yrs)",
+    "Skating and sprint running track",
+    "Pet park with pet grooming area",
+    "Amphitheater & community event lawn",
+    "Barbeque pavilion",
+    "Reflexology pathway, zen garden & nature trail",
+    "Senior citizens' fitness area",
+    "Double-heighted entrance lobby"
+  ],
+  "specifications": [
+    {
+      "category": "Structure",
+      "items": [
+        "Core wall and shear wall monolithic construction using Aluminum Modular shuttering system"
+      ]
+    },
+    {
+      "category": "Doors & Windows",
+      "items": [
+        "Main door: premium timber frame & shutter with quality ironmongery",
+        "Aluminum sliding doors/windows with clear glass and mosquito mesh",
+        "MS safety grills provided"
+      ]
+    },
+    {
+      "category": "Flooring",
+      "items": [
+        "Italian marble in entrance lobby & clubhouse lounge",
+        "Imported marble or laminated wooden flooring in master bedroom",
+        "Vitrified tile / marble flooring in living, dining & kitchen",
+        "Vitrified tile flooring in all bedrooms, toilets and balconies"
+      ]
+    },
+    {
+      "category": "Painting",
+      "items": [
+        "Weather-resistant exterior emulsion, two coats",
+        "Premium emulsion on internal walls, acrylic emulsion on ceilings"
+      ]
+    },
+    {
+      "category": "Electrical",
+      "items": [
+        "Concealed copper wiring (Havells/Polycab or equivalent)",
+        "Modular switches (Panasonic/Schneider or equivalent)",
+        "Home automation provision in living room & master bedroom",
+        "AC power socket provision in all bedrooms and living room",
+        "100% DG power backup for lifts, pumps & common lighting"
+      ]
+    },
+    {
+      "category": "Toilets & Plumbing",
+      "items": [
+        "Wall-mounted EWC with concealed flush tank",
+        "Sanitary ware of TOTO/Grohe or equivalent",
+        "Individual water meters for each flat"
+      ]
+    },
+    {
+      "category": "Common Amenities & Safety",
+      "items": [
+        "Round-the-clock security, panic buttons, intercom in lifts",
+        "High-speed lifts with auto rescue device (Schindler or equivalent)",
+        "Fire sprinklers, hydrants, extinguishers and alarm system on all floors"
+      ]
+    },
+    {
+      "category": "Eco-Sustainable Facilities",
+      "items": [
+        "Softened water via exclusive Water Treatment Plant",
+        "Sewage Treatment Plant with treated water reused for landscaping/flushing",
+        "Rainwater harvesting tanks and recharge wells",
+        "Organic waste converters"
+      ]
+    }
+  ],
+  "locationInfo": {
+    "summary": "Situated on Marathahalli Main Road, Thubarahalli, offering connectivity to prime IT hubs, reputed schools, major hospitals and metro access in East Bengaluru.",
+    "nearby": [
+      {
+        "category": "Tech Parks",
+        "places": [
+          "Brigade Tech Gardens \u2013 5 mins",
+          "Divya Sree Techpark \u2013 8 mins",
+          "SJR IT Park \u2013 9 mins",
+          "Prestige Tech Park \u2013 10 mins",
+          "International Tech Park (ITPB) \u2013 12 mins",
+          "Embassy Tech Square \u2013 14 mins"
+        ]
+      },
+      {
+        "category": "Healthcare",
+        "places": [
+          "Apollo Cradle Maternity & Children's Hospital \u2013 5 mins",
+          "Brookfields Multi Speciality Hospital \u2013 5 mins",
+          "Cloudnine Hospital \u2013 6 mins",
+          "Manipal Hospital \u2013 6 mins",
+          "Sakra World Hospital \u2013 12 mins"
+        ]
+      },
+      {
+        "category": "Education",
+        "places": [
+          "Glen Tree Academy \u2013 5 mins",
+          "Neev Academy \u2013 6 mins",
+          "Ryan International School \u2013 7 mins",
+          "GJR International School \u2013 8 mins",
+          "Vibgyor High School \u2013 9 mins",
+          "Chrysalis High School \u2013 12 mins"
+        ]
+      },
+      {
+        "category": "Entertainment & Retail",
+        "places": [
+          "Nexus Whitefield \u2013 6 mins",
+          "Brookfield Mall \u2013 6 mins",
+          "Iron Hill Club \u2013 8 mins",
+          "Inorbit Mall \u2013 10 mins",
+          "Nexus Shantiniketan \u2013 12 mins"
+        ]
+      }
+    ]
+  },
+  "rera": ""
+}

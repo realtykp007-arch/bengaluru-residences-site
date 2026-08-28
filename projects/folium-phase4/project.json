@@ -1,0 +1,58 @@
+{
+  "slug": "folium-phase4",
+  "name": "Folium by Sumadhura \u2014 Phase IV",
+  "codename": "A Signature Series",
+  "developer": "Sumadhura Group",
+  "location": "Whitefield Village, K.R. Puram Hobli, Bengaluru East, 560066",
+  "tagline": "Luxury, elevated to its finest form",
+  "heroImage": "images/masterplan.webp",
+  "coverImage": "images/masterplan.webp",
+  "configurations": [
+    "3 BHK Classic",
+    "3 BHK Smart",
+    "4 BHK Smart"
+  ],
+  "unitSizeRange": "1,645 \u2013 2,130 sq.ft (SBUA)",
+  "price": "",
+  "possession": "",
+  "overview": "Folium Phase IV is part of Sumadhura's Folium signature series in Whitefield, offering 3 and 4 BHK homes across Wing Oak and Wing Elm. Layouts include Classic and Smart variants with dedicated study rooms, walk-in wardrobes in select 4 BHK homes, and generous balcony areas.",
+  "highlights": [
+    "Part of the established Folium by Sumadhura signature series (Phases 1-4)",
+    "3 & 4 BHK homes across Wing Oak and Wing Elm",
+    "Smart layouts include a dedicated study room",
+    "4 BHK Smart homes feature a walk-in wardrobe off the master bedroom",
+    "East and North-facing layout options",
+    "Located in Whitefield Village, K.R. Puram Hobli"
+  ],
+  "floorPlans": [
+    {
+      "tower": "Wing Oak",
+      "configuration": "3 BHK Smart",
+      "sbua": "1,645 sq.ft SBUA / 985 sq.ft carpet",
+      "image": "images/fp_3bhk_smart.webp"
+    },
+    {
+      "tower": "Wing Oak",
+      "configuration": "3 BHK Classic",
+      "sbua": "1,745 sq.ft SBUA / 1,057 sq.ft carpet",
+      "image": "images/fp_3bhk_classic.webp"
+    },
+    {
+      "tower": "Wing Elm, Tower 07",
+      "configuration": "4 BHK Smart",
+      "sbua": "2,130 sq.ft SBUA / 1,326 sq.ft carpet",
+      "image": "images/fp_4bhk_smart.webp"
+    }
+  ],
+  "masterPlan": "images/masterplan.webp",
+  "images": [
+    "images/masterplan.webp"
+  ],
+  "amenities": [],
+  "specifications": [],
+  "locationInfo": {
+    "summary": "Located at Sy. 47/1, 47/2A, 47/2B, 47/3, 48/1C, 48/3, 48/4 & 48/5, Whitefield Village, K.R Puram Hobli, Ward No. 84, Bengaluru East Taluk.",
+    "nearby": []
+  },
+  "rera": "Phase 4: PRM/KA/RERA/1251/446/PR/050126/008382"
+}

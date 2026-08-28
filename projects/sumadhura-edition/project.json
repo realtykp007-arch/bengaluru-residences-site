@@ -1,0 +1,182 @@
+{
+  "slug": "sumadhura-edition",
+  "name": "Sumadhura Edition",
+  "codename": "The Royal Address",
+  "developer": "Sumadhura Group",
+  "location": "Whitefield, Bengaluru",
+  "tagline": "Where Bengaluru finds its English soul",
+  "heroImage": "images/hero.webp",
+  "coverImage": "images/hero.webp",
+  "configurations": [
+    "2 BHK Classic",
+    "3 BHK Classic",
+    "3 BHK Grand",
+    "3 BHK Smart",
+    "4 BHK Smart"
+  ],
+  "unitSizeRange": "1,280 \u2013 2,255 sq.ft (SBUA)",
+  "price": "",
+  "possession": "",
+  "overview": "Sumadhura Edition brings English-inspired architecture to Whitefield \u2014 Bengaluru's most cosmopolitan district, founded in 1882 under the patronage of King Chamaraja Wodeyar X. The development is organised into wings (Ara, Aquila, Carina and more) offering Classic, Grand and Smart 2, 3 and 4-bedroom layouts, anchored by a landscaped master plan and full-scale clubhouse.",
+  "highlights": [
+    "English-inspired architecture set in the heritage district of Whitefield",
+    "Classic, Grand and Smart layouts across 2, 3 and 4-bedroom homes",
+    "Double-height entrance lobby in tower and clubhouse",
+    "Elevated garden walkway with lily pond and landscaped grounds",
+    "Dedicated wellness, fitness and sports zones including turf and climbing wall",
+    "Home automation in living room and master bedroom",
+    "Dedicated EV parking (4 per tower) and car-charging provision",
+    "High-speed lifts with auto rescue device, Schindler or equivalent"
+  ],
+  "floorPlans": [
+    {
+      "tower": "Wing Ara, Aquila & Carina",
+      "configuration": "Classic 2 BHK",
+      "sbua": "1,280 sq.ft SBUA / 785 sq.ft carpet",
+      "image": "images/fp_first_floor.webp"
+    },
+    {
+      "tower": "Wing Ara, Aquila & Carina",
+      "configuration": "Classic 3 BHK",
+      "sbua": "1,490 \u2013 1,920 sq.ft SBUA",
+      "image": "images/fp_first_floor.webp"
+    },
+    {
+      "tower": "Wing Ara, Aquila & Carina",
+      "configuration": "Grand 3 BHK",
+      "sbua": "1,900 \u2013 2,255 sq.ft SBUA",
+      "image": "images/fp_first_floor.webp"
+    },
+    {
+      "tower": "Wing Ara, Aquila & Carina",
+      "configuration": "Smart 3 & 4 BHK",
+      "sbua": "1,810 sq.ft SBUA (4 BHK)",
+      "image": "images/fp_first_floor.webp"
+    }
+  ],
+  "masterPlan": "images/masterplan.webp",
+  "images": [
+    "images/hero.webp",
+    "images/gallery1.webp",
+    "images/gallery2.webp",
+    "images/locationmap.webp",
+    "images/masterplan.webp"
+  ],
+  "amenities": [
+    "Swimming pool",
+    "Elevated garden walkway with lily pond",
+    "Kids play area",
+    "Skating rink",
+    "Volleyball / sand court",
+    "Climbing wall",
+    "Football turf",
+    "Grill & BBQ deck",
+    "Yoga & fitness lawn",
+    "Pet park",
+    "Cycling & jogging trail",
+    "Clubhouse (Club Roundhouse)"
+  ],
+  "specifications": [
+    {
+      "category": "Structure",
+      "items": [
+        "Core wall and shear wall monolithic construction with aluminium modular shuttering system"
+      ]
+    },
+    {
+      "category": "Doors & Windows",
+      "items": [
+        "Main door: good quality timber frame and shutter with good quality ironmongery",
+        "Internal, toilet and utility doors: good quality timber frame and shutter",
+        "Balconies: UPVC sliding door with clear glass shutters and mosquito mesh provision",
+        "Windows: UPVC with clear glass shutters, mosquito mesh provision and MS safety grill"
+      ]
+    },
+    {
+      "category": "Painting",
+      "items": [
+        "External: textured or smooth finish, two coats weather-resistant exterior emulsion",
+        "Internal: smooth putty finish, two coats premium emulsion for walls, acrylic emulsion for ceiling"
+      ]
+    },
+    {
+      "category": "Flooring",
+      "items": [
+        "Elegant double-height ground floor lobby in tower and clubhouse",
+        "Lounge area: Italian marble flooring",
+        "Staircases: granite flooring",
+        "Premium laminated wooden flooring in master bedroom",
+        "Living, dining, kitchen and other bedrooms: good quality vitrified tiles",
+        "Toilets and balconies: good quality vitrified tiles; toilet dado up to false ceiling"
+      ]
+    },
+    {
+      "category": "Kitchen & Utility",
+      "items": [
+        "Provision for softened water inlet in kitchen",
+        "Provision for sleeve chimney exhaust",
+        "Water inlet/outlet provision for washing machine and dish washer (Premium 4 BHK and 3.5 BHK only)"
+      ]
+    },
+    {
+      "category": "Toilets",
+      "items": [
+        "Wall-mounted EWC with concealed flush tank",
+        "Single lever diverter-cum-shower",
+        "Sanitary ware: TOTO or Grohe or equivalent",
+        "Master bedroom toilet: vanity with premium CP fittings of Grohe or equivalent"
+      ]
+    },
+    {
+      "category": "Electrical",
+      "items": [
+        "Concealed copper wiring: Havells, Polycab or equivalent",
+        "Modular switches: Panasonic, Schneider or equivalent",
+        "Home automation in living room and master bedroom",
+        "USB port for C-type charging in master bedroom",
+        "Power supply: 4 BHK & 3.5 BHK \u2013 4.5 kW, 3 BHK \u2013 3.3 kW, 2.5 BHK \u2013 2.5 kW, 2 BHK \u2013 2.3 kW",
+        "100% uninterrupted DG power backup for lifts, pumps and common lighting; project on HT metering"
+      ]
+    },
+    {
+      "category": "Plumbing",
+      "items": [
+        "Individual water meters for softened water lines",
+        "Drainage & sewage: SWR pipes and fittings",
+        "Water supply (internal & external): CPVC or UPVC pipes and fittings"
+      ]
+    },
+    {
+      "category": "Car Parking & EV",
+      "items": [
+        "Covered parking with entry/exit ramps and signage",
+        "Power-trowelled cement concrete flooring",
+        "Dedicated car-charging space in visitor parking",
+        "EV parking provision: 4 numbers per tower"
+      ]
+    },
+    {
+      "category": "Fire & Safety",
+      "items": [
+        "Fire sprinkler system in all flats, corridors and basements",
+        "Fire hydrant and extinguishers on all floors",
+        "Fire alarms and public address system",
+        "Gas leak detector"
+      ]
+    },
+    {
+      "category": "Security & Lifts",
+      "items": [
+        "Round-the-clock security with panic button and intercom in lifts",
+        "Solar-powered compound fencing",
+        "Surveillance cameras at main security and each wing entrance",
+        "High-speed lifts with auto rescue device and V3F, Schindler or equivalent \u2014 3x8-passenger + 1x13-passenger lift per wing, 3x8-passenger lifts in clubhouse"
+      ]
+    }
+  ],
+  "locationInfo": {
+    "summary": "Located in Whitefield \u2014 founded in 1882 under the patronage of King Chamaraja Wodeyar X and today Bengaluru's most cosmopolitan residential and IT district.",
+    "nearby": []
+  },
+  "rera": "PRM/KA/RERA/1251/446/PR/111225/008328"
+}

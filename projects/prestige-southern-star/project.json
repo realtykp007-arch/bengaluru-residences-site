@@ -1,0 +1,154 @@
+{
+  "slug": "prestige-southern-star",
+  "name": "Prestige Southern Star",
+  "codename": "Your Sanctuary of Serenity",
+  "developer": "Prestige Estates Projects Limited",
+  "location": "Akshayanagar, Bannerghatta Road, Bengaluru",
+  "tagline": "Your sanctuary of serenity",
+  "heroImage": "images/hero.webp",
+  "coverImage": "images/hero.webp",
+  "configurations": [
+    "1 BHK Classic",
+    "2 BHK Optima",
+    "3 BHK Aspire",
+    "3 BHK Premia",
+    "3 BHK Ultima",
+    "4 BHK Magnus"
+  ],
+  "unitSizeRange": "695 \u2013 2,774 sq.ft (saleable area)",
+  "price": "",
+  "possession": "",
+  "overview": "A self-contained premium residential community of 2,130 high-rise homes spanning over 30+ acres in Akshayanagar, Bannerghatta Road. Prestige Southern Star offers One, Two, Three and Four-Bed apartments in a wide range of layouts, with a home-office option in select layouts, over 80% open space including a central park, three swimming pools and a large clubhouse.",
+  "highlights": [
+    "2,130 homes across 14 towers on 30+ acres",
+    "Over 80% open space, including a central park and festive lounges",
+    "Three swimming pools and a large, well-equipped clubhouse",
+    "Active fitness district: basketball, mini football, volleyball courts and a mini cricket ground",
+    "Home-office option available in select layouts",
+    "4 km from Hulimavu Road Metro Station (Pink Line)",
+    "3 km from Singasandra Metro Station (Yellow Line)",
+    "Excellent connectivity via Bannerghatta Road and NICE Road"
+  ],
+  "floorPlans": [
+    {
+      "tower": "Multiple towers",
+      "configuration": "3 BHK Premia (D8)",
+      "sbua": "1,875 sq.ft saleable",
+      "image": "images/fp_3bed_premia.webp"
+    },
+    {
+      "tower": "Multiple towers",
+      "configuration": "3 BHK Aspire (C3)",
+      "sbua": "See brochure for exact area",
+      "image": "images/fp_3bed_aspire.webp"
+    },
+    {
+      "tower": "Multiple towers",
+      "configuration": "3 BHK Ultima (E4)",
+      "sbua": "2,114 sq.ft saleable",
+      "image": "images/fp_3bed_ultima.webp"
+    },
+    {
+      "tower": "Tower 02 / 12",
+      "configuration": "4 BHK Magnus (G5)",
+      "sbua": "2,732 sq.ft saleable",
+      "image": "images/fp_4bed_magnus.webp"
+    }
+  ],
+  "masterPlan": "images/masterplan.webp",
+  "images": [
+    "images/hero.webp",
+    "images/aerial.webp",
+    "images/masterplan.webp"
+  ],
+  "amenities": [
+    "Entrance portal & visitor parking",
+    "Feature pool area",
+    "3 swimming pools & kids pool",
+    "Sand park",
+    "Tennis court",
+    "Basketball court",
+    "Mini football court",
+    "Mini cricket ground",
+    "Skating rink",
+    "Outdoor gymnasium",
+    "Volleyball court",
+    "Pet park",
+    "Senior citizen park",
+    "Jogging & cycling tracks",
+    "Amphitheatre",
+    "Kids play area",
+    "Large clubhouse with recreational, social & fitness facilities"
+  ],
+  "specifications": [
+    {
+      "category": "Structure & Lobby",
+      "items": [
+        "RCC structure",
+        "Ground floor lobby in elegant flooring; upper floor/basement lobby in vitrified tiles",
+        "Lift cladding in marble/granite/quartz per architect's design"
+      ]
+    },
+    {
+      "category": "Flooring",
+      "items": [
+        "Vitrified tiles in foyer, living, dining, corridors and all bedrooms",
+        "Ceramic tiles in balcony",
+        "Kitchen and utility flooring in vitrified tiles"
+      ]
+    },
+    {
+      "category": "Kitchen",
+      "items": [
+        "No counter or dado provided",
+        "Exhaust fan provided"
+      ]
+    },
+    {
+      "category": "Toilets",
+      "items": [
+        "Vitrified tiles for flooring and walls up to false ceiling",
+        "Countertop wash basins, EWCs and chrome-plated fittings",
+        "Geysers in all toilets; solar water facility on top 2 floors of all towers"
+      ]
+    },
+    {
+      "category": "Doors & Windows",
+      "items": [
+        "Main door: timber frame with polished flush shutter",
+        "Internal doors: timber frame, laminated flush shutter",
+        "External doors/windows: UPVC/aluminium frames with clear glass and mosquito mesh provision"
+      ]
+    },
+    {
+      "category": "Electrical",
+      "items": [
+        "Concealed PVC-insulated copper wiring with modular switches",
+        "TV points in living and all bedrooms, telephone point in living",
+        "Data points in living and all bedrooms",
+        "ELCB and individual meters for all apartments"
+      ]
+    },
+    {
+      "category": "Security & Power",
+      "items": [
+        "Security cabins at all entrances/exits with CCTV coverage",
+        "Generator for common areas; 100% apartment backup at additional cost"
+      ]
+    }
+  ],
+  "locationInfo": {
+    "summary": "Located in Akshayanagar on Bannerghatta Road, with excellent connectivity across Bengaluru via Bannerghatta Road and NICE Road, and close to two metro stations.",
+    "nearby": [
+      {
+        "category": "Metro & Transit",
+        "places": [
+          "Hulimavu Road Metro Station (Pink Line) \u2013 4 km",
+          "Singasandra Metro Station (Yellow Line) \u2013 3 km",
+          "NICE Road access"
+        ]
+      }
+    ]
+  },
+  "rera": "PRM/KA/RERA/1251/310/PR/210325/007603"
+}

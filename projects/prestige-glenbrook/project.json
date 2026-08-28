@@ -1,0 +1,136 @@
+{
+  "slug": "prestige-glenbrook",
+  "name": "Prestige Glenbrook",
+  "codename": "Rise at Home in the Heart of Nature",
+  "developer": "Prestige Estates Projects Limited",
+  "location": "Whitefield, Bengaluru",
+  "tagline": "In the touch of the action. Insulated from the world.",
+  "heroImage": "images/hero.webp",
+  "coverImage": "images/hero.webp",
+  "configurations": [
+    "2 BHK",
+    "3 BHK",
+    "4 BHK"
+  ],
+  "unitSizeRange": "1,067 \u2013 2,928 sq.ft (saleable area)",
+  "price": "",
+  "possession": "",
+  "overview": "Prestige Glenbrook offers a wide choice of apartment configurations across two towers in Whitefield \u2014 from two-bed homes to spacious four-bed units \u2014 designed with intelligently managed circulation space for more usable area and excellent cross-ventilation. The development is close to the city's action yet insulated from it, with everyday needs and the workplace both within easy reach.",
+  "highlights": [
+    "Two towers with configurations spanning 2, 3 and 4 bed homes",
+    "Rooms designed to be spacious, airy and bright with natural light",
+    "Intelligently managed circulation space for more usable area and excellent cross-ventilation",
+    "Clubhouse, swimming pool and change rooms within the master plan",
+    "Tennis court, basketball court and dedicated children's play area",
+    "Located in Whitefield, close to the workplace and everyday conveniences"
+  ],
+  "floorPlans": [
+    {
+      "tower": "Tower 1",
+      "configuration": "Multiple types (A\u2013Q)",
+      "sbua": "1,067 \u2013 2,928 sq.ft saleable",
+      "image": "images/fp_tower1.webp"
+    },
+    {
+      "tower": "Tower 2 (2nd\u201315th floor)",
+      "configuration": "Multiple types (A\u2013Q)",
+      "sbua": "1,067 \u2013 2,928 sq.ft saleable",
+      "image": "images/fp_tower2.webp"
+    },
+    {
+      "tower": "Unit Type G",
+      "configuration": "Individual unit plan",
+      "sbua": "1,647 sq.ft saleable",
+      "image": "images/fp_unittype.webp"
+    }
+  ],
+  "masterPlan": "images/masterplan.webp",
+  "images": [
+    "images/hero.webp",
+    "images/gallery1.webp",
+    "images/gallery2.webp",
+    "images/masterplan.webp"
+  ],
+  "amenities": [
+    "Clubhouse",
+    "Swimming pool & change rooms",
+    "Tennis court",
+    "Basketball court",
+    "Children's play area",
+    "Park & landscaped grounds",
+    "Visitor parking",
+    "Gas bank & OWC"
+  ],
+  "specifications": [
+    {
+      "category": "Structure & Lobby",
+      "items": [
+        "RCC structure",
+        "Marble/granite lobby flooring on the ground floor; vitrified tiles in basement and upper floor lobbies",
+        "Lift cladding in marble/granite as per architect's design",
+        "All railings in glass"
+      ]
+    },
+    {
+      "category": "Apartment Flooring",
+      "items": [
+        "Marble flooring in foyer, living, dining, corridors and master bedroom",
+        "Vitrified tiles in other bedrooms",
+        "Master toilet in marble on floor and walls up to false ceiling; other toilets in ceramic tiles",
+        "Balconies in ceramic tiles"
+      ]
+    },
+    {
+      "category": "Kitchen",
+      "items": [
+        "No counter, dado tiling or sink provided in kitchen and utility",
+        "Provision for exhaust fan"
+      ]
+    },
+    {
+      "category": "Maid's Room & Toilet",
+      "items": [
+        "Ceramic tile flooring in maid's room",
+        "Ceramic tile flooring and dado in maid's toilet"
+      ]
+    },
+    {
+      "category": "Toilets",
+      "items": [
+        "Countertop wash basins, EWCs and chrome-plated fittings",
+        "Chrome-plated tap with shower mixer",
+        "Geysers in all toilets, instant geyser in maid's toilet",
+        "Solar water with geysers on the last two floors"
+      ]
+    },
+    {
+      "category": "Doors & Windows",
+      "items": [
+        "Main door: timber frame and flush shutter",
+        "Internal doors: timber frame, laminated flush shutters",
+        "External doors/windows: UPVC/aluminium frames with clear glass"
+      ]
+    },
+    {
+      "category": "Electrical",
+      "items": [
+        "Concealed PVC-insulated copper wiring with modular switches",
+        "TV points in living and all bedrooms",
+        "Telephone points in living and kitchen only",
+        "ELCB and individual meters for all apartments"
+      ]
+    },
+    {
+      "category": "Security & Power",
+      "items": [
+        "Security cabins at all entrances/exits with CCTV coverage",
+        "Generator for common areas; 100% apartment backup at additional cost"
+      ]
+    }
+  ],
+  "locationInfo": {
+    "summary": "Located in Whitefield, close to the workplace and everyday conveniences while remaining insulated from the city's bustle.",
+    "nearby": []
+  },
+  "rera": "PRM/KA/RERA/1251/446/PR/081123/006382"
+}
