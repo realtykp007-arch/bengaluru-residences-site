@@ -1,4 +1,4 @@
-# Simple workflow for deploying static content to GitHub Pages
+# Simple workflow for deploying Bengaluru Residences to GitHub Pages
 name: Deploy Website to GitHub Pages
 
 on:
@@ -28,9 +28,6 @@ jobs:
         with:
           node-version: 24
 
-      - name: Install dependencies
-        run: npm install
-
       - name: Generate website
         run: node scripts/generate.js
 
@@ -54,3 +51,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+  
