@@ -94,15 +94,60 @@
     "Vehicle-free Pathways"
   ],
   "specifications": [
-    "Structure: RCC-framed structure with solid cement block masonry for internal and peripheral walls",
-    "Plastering & Painting: Internal walls with smooth plaster finish and emulsion paint; external walls with waterproof plaster and exterior-grade emulsion paint",
-    "Flooring: Imported marble for foyer, living, dining and staircase; vitrified tiles/granite for kitchen and utility; wooden laminate for bedrooms and family room; pressed clay tiles for terraces and anti-skid ceramic tiles for balconies and toilets",
-    "Bathroom: Ceramic glazed tile dado up to 7 ft, CP fittings and accessories, single-lever diverter for showers, health faucet, and provision for solar water heater and exhaust fans",
-    "Windows: Three-track UPVC/aluminium windows with clear glass",
-    "Plumbing: Good quality CP fittings, PVC pipes and storm-water drainage",
-    "Kitchen: Granite platform with stainless steel sink and drain board, ceramic glazed tile dado above the platform",
-    "Electrical: Concealed copper wiring with modular switches, up to 10 KW power per villa with backup power of up to 5 KW, and provision for AC in all rooms",
-    "Doors: Teak wood frame main door with designer flush shutter; seasoned hardwood frame for other doors with stainless steel hardware"
+    {
+      "category": "Structure",
+      "items": [
+        "RCC-framed structure with solid cement block masonry for internal and peripheral walls"
+      ]
+    },
+    {
+      "category": "Plastering & Painting",
+      "items": [
+        "Internal walls with smooth plaster finish and emulsion paint; external walls with waterproof plaster and exterior-grade emulsion paint"
+      ]
+    },
+    {
+      "category": "Flooring",
+      "items": [
+        "Imported marble for foyer, living, dining and staircase; vitrified tiles/granite for kitchen and utility; wooden laminate for bedrooms and family room; pressed clay tiles for terraces and anti-skid ceramic tiles for balconies and toilets"
+      ]
+    },
+    {
+      "category": "Bathroom",
+      "items": [
+        "Ceramic glazed tile dado up to 7 ft, CP fittings and accessories, single-lever diverter for showers, health faucet, and provision for solar water heater and exhaust fans"
+      ]
+    },
+    {
+      "category": "Windows",
+      "items": [
+        "Three-track UPVC/aluminium windows with clear glass"
+      ]
+    },
+    {
+      "category": "Plumbing",
+      "items": [
+        "Good quality CP fittings, PVC pipes and storm-water drainage"
+      ]
+    },
+    {
+      "category": "Kitchen",
+      "items": [
+        "Granite platform with stainless steel sink and drain board, ceramic glazed tile dado above the platform"
+      ]
+    },
+    {
+      "category": "Electrical",
+      "items": [
+        "Concealed copper wiring with modular switches, up to 10 KW power per villa with backup power of up to 5 KW, and provision for AC in all rooms"
+      ]
+    },
+    {
+      "category": "Doors",
+      "items": [
+        "Teak wood frame main door with designer flush shutter; seasoned hardwood frame for other doors with stainless steel hardware"
+      ]
+    }
   ],
   "locationInfo": {
     "summary": "Well connected to Whitefield's IT corridor, reputed schools, hospitals and shopping destinations, with Kadugodi Tree Park Metro Station and Whitefield Railway Station both a short drive away.",
@@ -110,56 +155,56 @@
       {
         "category": "Schools",
         "places": [
-          "The Deens Academy \u2013 5 mins",
-          "National Public School (NPS) Whitefield \u2013 12 mins",
-          "NPS Marathahalli \u2013 21 mins"
+          "The Deens Academy – 5 mins",
+          "National Public School (NPS) Whitefield – 12 mins",
+          "NPS Marathahalli – 21 mins"
         ]
       },
       {
         "category": "Hospitals",
         "places": [
-          "Motherhood Hospital \u2013 11 mins",
-          "Manipal Hospital Varthur \u2013 13 mins",
-          "Cloudnine Hospital Whitefield \u2013 15 mins",
-          "Aster Women & Children Hospital \u2013 15 mins",
-          "Manipal Hospital Whitefield \u2013 17 mins",
-          "Vydehi Hospital \u2013 20 mins",
-          "Sri Sathya Sai Hospital \u2013 20 mins"
+          "Motherhood Hospital – 11 mins",
+          "Manipal Hospital Varthur – 13 mins",
+          "Cloudnine Hospital Whitefield – 15 mins",
+          "Aster Women & Children Hospital – 15 mins",
+          "Manipal Hospital Whitefield – 17 mins",
+          "Vydehi Hospital – 20 mins",
+          "Sri Sathya Sai Hospital – 20 mins"
         ]
       },
       {
         "category": "Shopping",
         "places": [
-          "Park Square Mall \u2013 9 mins",
-          "Nexus Whitefield \u2013 11 mins",
-          "Nexus Shantiniketan \u2013 16 mins",
-          "Phoenix Marketcity \u2013 26 mins"
+          "Park Square Mall – 9 mins",
+          "Nexus Whitefield – 11 mins",
+          "Nexus Shantiniketan – 16 mins",
+          "Phoenix Marketcity – 26 mins"
         ]
       },
       {
         "category": "Work",
         "places": [
-          "GR Tech Park \u2013 4 mins",
-          "International Tech Park Bangalore (ITPB) \u2013 10 mins",
-          "Hindustan Unilever Research Center \u2013 11 mins",
-          "Tata Consultancy Services \u2013 11 mins",
-          "Mercedes-Benz Research & Development India \u2013 15 mins",
-          "SAP Labs India Whitefield \u2013 15 mins",
-          "Novo Nordisk Global Business Services \u2013 16 mins",
-          "NTT Data \u2013 16 mins",
-          "Sigma Tech Park \u2013 16 mins",
-          "GE \u2013 17 mins",
-          "Brigade IRV Centre \u2013 20 mins",
-          "Capgemini \u2013 22 mins"
+          "GR Tech Park – 4 mins",
+          "International Tech Park Bangalore (ITPB) – 10 mins",
+          "Hindustan Unilever Research Center – 11 mins",
+          "Tata Consultancy Services – 11 mins",
+          "Mercedes-Benz Research & Development India – 15 mins",
+          "SAP Labs India Whitefield – 15 mins",
+          "Novo Nordisk Global Business Services – 16 mins",
+          "NTT Data – 16 mins",
+          "Sigma Tech Park – 16 mins",
+          "GE – 17 mins",
+          "Brigade IRV Centre – 20 mins",
+          "Capgemini – 22 mins"
         ]
       },
       {
         "category": "Others",
         "places": [
-          "Kadugodi Tree Park Metro Station \u2013 5 mins",
-          "NVT Life Square \u2013 6 mins",
-          "Whitefield Railway Station \u2013 9 mins",
-          "NVT Corporate Office \u2013 15 mins"
+          "Kadugodi Tree Park Metro Station – 5 mins",
+          "NVT Life Square – 6 mins",
+          "Whitefield Railway Station – 9 mins",
+          "NVT Corporate Office – 15 mins"
         ]
       }
     ]
